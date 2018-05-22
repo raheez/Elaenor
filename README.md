@@ -2,6 +2,8 @@
 
 Domain - Internet of Things 
 
+Elaenor is a home automation app, which helps in controling devices remotely. There is no need to dispose the existing devices, for example a  bedroom bulb can be attached to a smart holder which helps in connecting the bulb to a wifi network, which in turn helps the user to control it from anywhere. Firebase SDK plays a major role in this application. User is authenticated using firebase OTP verification and its realtime database enable's the change of states of devices to reflect instantly,that is whenever the state of the device is swithed from ON state to OFF state user gets the live update of the current state of device instantly.User can create virtual rooms to add his devices collectively, enabling the user to control all the devices at the same time. 
+
 <img src="https://github.com/raheez/Elaenor/blob/master/Screenshots/01_splash.png" width="240" height="420">    <img src="https://github.com/raheez/Elaenor/blob/master/Screenshots/02_login.png" width="240" height="420">    <img src="https://github.com/raheez/Elaenor/blob/master/Screenshots/03_otp.png" width="240" height="420">
 
 
